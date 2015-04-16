@@ -1,0 +1,9 @@
+section {
+  margin: 20px;
+  padding: 10px;
+}
+
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
